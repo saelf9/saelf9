@@ -3,8 +3,12 @@
 :mortar_board:  I'm a Software Engineering student at Laval University <br/>
 :brain:  I like to discover new technologies and create new projects to challenge myself
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Safae Elfattahi](https://www.linkedin.com/in/safae-elfattahi-5519a8233/) )
+## 🌸 Let's Connect!
+
+[![💼 LinkedIn – Safae Elfattahi](https://img.shields.io/badge/-Visit%20My%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safae-elfattahi-5519a8233/)
+&nbsp;
+[![🖥️ Portfolio – See My Work](https://img.shields.io/badge/-View%20My%20Portfolio-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://portfolio-silk-five-33.vercel.app/)
+
 
 
 # 💻 Tech Stack:
